@@ -1,0 +1,2 @@
+# SliderJS
+Lightweight image slider
