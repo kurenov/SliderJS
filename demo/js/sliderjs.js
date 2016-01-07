@@ -19,7 +19,7 @@ function SliderJSInit() {
 
 function SliderJS(step) {
   var slideWidth = 280;
-  var limSliderImages = document.getElementById('slider-js--images');
+  var limSliderImages = document.getElementById('slider-js-images');
 
   if (limSliderImages != null) {
 
